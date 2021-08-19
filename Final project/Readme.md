@@ -3,7 +3,7 @@
 ## Development Team
 ​
 * Zeray Admasu - *Dashboard Constructor, Code Reviewer*
-* Sumitha Prabu - *NLP -Sentiment Analysis - News Media*
+* Sumitha Prabhu - *NLP -Sentiment Analysis - News Media*
 * John A Kelly - *NLP - Sentiment Analysis - Social Media*
 * Joanne Gates - *Deep-Learning, LSTM Time Series Analysis*
 ​
