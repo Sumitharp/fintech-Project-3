@@ -105,7 +105,7 @@ Row 2 , Col 2 :
 ​
 ​
 ​
-## Sentiment Analysis: News Media - Sumitha Prabu
+## Sentiment Analysis: News Media - Sumitha Prabhu
 ​
 ># **Sentiment Analysis for stock news and price trend indicator**
 
